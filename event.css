@@ -1,0 +1,30 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: white;
+    
+}
+
+.DiV {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+    flex-grow: 1;
+}
+
+.div1,
+.div2,
+.div3 {
+    width:17em;
+    height:30em;
+    background-color: #9FE2BF;
+    box-shadow: 5px 5px 25px white;
+    padding:10px 30px;
+    border-radius: 10px;
+   
+  
+}
